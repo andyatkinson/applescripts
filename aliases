@@ -1,0 +1,1 @@
+alias openvpn="/usr/local/bin/pgrep racoon | xargs sudo kill -9; osascript openvpn.applescript"
